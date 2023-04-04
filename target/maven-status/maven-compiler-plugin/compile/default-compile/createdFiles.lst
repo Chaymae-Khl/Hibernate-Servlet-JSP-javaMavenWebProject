@@ -1,0 +1,12 @@
+Service\servicelivreIMP.class
+helpclass\NewHibernateUtil.class
+com\mycompany\gestionlivre\Main.class
+Service\serviceLivreInter.class
+Modele\Livre.class
+DAO\livreDaoInter.class
+DAO\loginInter.class
+servlet\traitement.class
+servlet\login.class
+DAO\livreImp.class
+DAO\loginIMP.class
+Modele\user.class
